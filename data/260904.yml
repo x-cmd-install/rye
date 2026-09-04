@@ -1,22 +1,24 @@
 about:
-  description: a Hassle-Free Python Experience
+  description:
+  |
+    a Hassle-Free Python Experience
   license: MIT
   homepage: https://rye.astral.sh
   head: 62ec9ed
   archived: true
   latestVersion: 0.44.0
-  collectedAt: 2026-09-04T04:57:24Z
+  collectedAt: 2026-09-04T19:51:35Z
 timeline:
   created: 2023-04-22
   lastCommit: 2025-08-18
   lastRelease: 2025-02-26
 popularity:
-  star: 14162
+  star: 14161
   watcher: 4
   fork: 468
   release: 48
-  contributor: 125
-  pullRequest: 88
+  contributor: 116
+  pullRequest: 588
   issue: 681
 language:
   Rust: 419397
@@ -25,10 +27,18 @@ language:
   Jinja: 3302
   Shell: 2858
   Makefile: 684
-totalLine: 668734
+totalBytes: 668734
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -59,3 +69,21 @@ recent:
     closedIssue: 0
     openIssue: 1
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 5
+    mergedPR: 34
+    openPR: 6
+    closedIssue: 10
+    openIssue: 31
+    commit: 36
+total:
+  release: 48
+  mergedPR: 500
+  openPR: 23
+  closedIssue: 371
+  openIssue: 310
+  commit: 838
+---
+---
+
