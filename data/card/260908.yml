@@ -5,7 +5,7 @@ about:
   head: 62ec9ed
   archived: true
   latestVersion: "0.44.0"
-  collectedAt: 2026-09-08T03:17:38Z
+  collectedAt: 2026-09-08T05:56:21Z
 timeline:
   created: 2023-04-22
   lastCommit: 2025-08-18
@@ -84,7 +84,7 @@ total:
   commit: 838
 ---
 path: /home/runner/.x-repo/github.com/astral-sh/rye
-collectedAt: 2026-09-08T03:17:40Z
+collectedAt: 2026-09-08T05:56:22Z
 loc:
   Rust:
     code: 11124
