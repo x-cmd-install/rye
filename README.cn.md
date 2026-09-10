@@ -1,54 +1,54 @@
 # rye
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
-> ⚠️ This project is archived.
+> ⚠️ 此项目已归档（archived）。
 
 a Hassle-Free Python Experience
 
-![rye](https://repo.x-cmd.io/rye.svg)
+![rye](https://repo.x-cmd.io/rye.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install rye
 ```
 
-## Code insight
+## 代码规模
 
-Total: **12,942** lines of code across **83** files in the top 5 languages.
+合计: **12,942** 行代码（覆盖前 5 种语言、共 **83** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Rust | 11,124 | 356 | 1,284 | 61 |
 | Bitbake | 623 | 0 | 0 | 2 |
 | Python | 580 | 19 | 137 | 8 |
 | Jinja2 | 142 | 0 | 20 | 11 |
 | Yaml | 137 | 6 | 8 | 1 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/astral-sh/rye>
-- **Homepage**: <https://rye.astral.sh>
-- **License**: MIT
+- **上游仓库**: <https://github.com/astral-sh/rye>
+- **官网**: <https://rye.astral.sh>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `0.44.0` (2025-02-26)
-- **Last commit**: 2025-08-18
-- **Assets in release**: 13
+- **最新版本**: `0.44.0` (2025-02-26)
+- **最近提交**: 2025-08-18
+- **Release 含资产**: 13 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 14,157 · **Forks**: 468 · **Open issues**: 681 · **Contributors**: 116
+- **Star**: 14,157 · **Fork**: 468 · **开放 issue**: 681 · **贡献者**: 116
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 48 · **Merged PRs**: 500 · **Open PRs**: 23 · **Closed issues**: 371 · **Open issues**: 310 · **Commits**: 838
+- **发布数**: 48 · **已合并 PR**: 500 · **开放 PR**: 23 · **已关闭 issue**: 371 · **开放 issue**: 310 · **提交数**: 838
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
 | last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -57,10 +57,10 @@ Total: **12,942** lines of code across **83** files in the top 5 languages.
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 1 | 0 |
 | last720d | 2024-09-20 | 5 | 32 | 6 | 10 | 30 | 33 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [MANIFEST.json](https://github.com/astral-sh/rye/releases/download/0.44.0/MANIFEST.json) | 622 B | `other` |
 | [rye-aarch64-linux.gz](https://github.com/astral-sh/rye/releases/download/0.44.0/rye-aarch64-linux.gz) | 7.4 MiB | `native/linux/arm64` |
 | [rye-aarch64-linux.gz.sha256](https://github.com/astral-sh/rye/releases/download/0.44.0/rye-aarch64-linux.gz.sha256) | 65 B | `native/linux/arm64` |
@@ -75,23 +75,23 @@ Total: **12,942** lines of code across **83** files in the top 5 languages.
 | [rye-x86_64-windows.exe](https://github.com/astral-sh/rye/releases/download/0.44.0/rye-x86_64-windows.exe) | 13.8 MiB | `native/win/x64` |
 | [rye-x86_64-windows.exe.sha256](https://github.com/astral-sh/rye/releases/download/0.44.0/rye-x86_64-windows.exe.sha256) | 66 B | `native/win/x64` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **30** distros on [repology.org](https://repology.org/project/rye). **11** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/rye) 上共有 **30** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Homebrew | `0.44.0` | ✅ latest |
 | Nix unstable | `0.44.0` | ✅ latest |
 | openSUSE Tumbleweed | `0.44.0` | ✅ latest |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for rye lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rye` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+rye 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `rye` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/rye.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/rye.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:18:51Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:18:52Z._
