@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7793928,
       "digest": null,
-      "download_count": 45822,
+      "download_count": 45848,
       "created_at": "2025-02-27T00:01:25Z",
       "updated_at": "2025-02-27T00:01:25Z",
       "browser_download_url": "https://github.com/astral-sh/rye/releases/download/0.44.0/rye-aarch64-linux.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5138494,
       "digest": null,
-      "download_count": 47615,
+      "download_count": 47619,
       "created_at": "2025-02-27T00:00:12Z",
       "updated_at": "2025-02-27T00:00:13Z",
       "browser_download_url": "https://github.com/astral-sh/rye/releases/download/0.44.0/rye-aarch64-macos.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": null,
-      "download_count": 38418,
+      "download_count": 38421,
       "created_at": "2025-02-27T00:00:14Z",
       "updated_at": "2025-02-27T00:00:14Z",
       "browser_download_url": "https://github.com/astral-sh/rye/releases/download/0.44.0/rye-aarch64-macos.gz.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 7751325,
       "digest": null,
-      "download_count": 2302322,
+      "download_count": 2302535,
       "created_at": "2025-02-27T00:01:25Z",
       "updated_at": "2025-02-27T00:01:26Z",
       "browser_download_url": "https://github.com/astral-sh/rye/releases/download/0.44.0/rye-x86_64-linux.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": null,
-      "download_count": 235986,
+      "download_count": 235987,
       "created_at": "2025-02-27T00:01:26Z",
       "updated_at": "2025-02-27T00:01:27Z",
       "browser_download_url": "https://github.com/astral-sh/rye/releases/download/0.44.0/rye-x86_64-linux.gz.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 14453248,
       "digest": null,
-      "download_count": 24433,
+      "download_count": 24435,
       "created_at": "2025-02-27T00:03:09Z",
       "updated_at": "2025-02-27T00:03:10Z",
       "browser_download_url": "https://github.com/astral-sh/rye/releases/download/0.44.0/rye-x86_64-windows.exe"
