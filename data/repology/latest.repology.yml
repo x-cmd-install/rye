@@ -1,0 +1,322 @@
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.40.0
+  origversion: 0.40.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.39.0
+  origversion: 0.39.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.38.0
+  origversion: 0.38.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.37.0
+  origversion: 0.37.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.36.0
+  origversion: 0.36.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.35.0
+  origversion: 0.35.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.34.0
+  origversion: 0.34.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.33.0
+  origversion: 0.33.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.32.0
+  origversion: 0.32.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.31.0
+  origversion: 0.31.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.30.0
+  origversion: 0.30.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.29.0
+  origversion: 0.29.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.28.0
+  origversion: 0.28.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: liguros_stable
+  srcname: dev-util/rye
+  visiblename: dev-util/rye
+  version: 0.44.0
+  origversion: null
+  status: newest
+  summary: a Hassle-Free Python Experience
+  maintainers:
+    - dev@dyama.net
+  licenses:
+    - MIT
+    - 0BSD
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-3.0
+    - Unicode-DFS-2016
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/rye
+  visiblename: dev-util/rye
+  version: 0.44.0
+  origversion: null
+  status: newest
+  summary: a Hassle-Free Python Experience
+  maintainers:
+    - dev@dyama.net
+  licenses:
+    - MIT
+    - 0BSD
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-3.0
+    - Unicode-DFS-2016
+  categories:
+    - dev-util
+- repo: aur
+  srcname: rye-git
+  binname: rye-git
+  visiblename: rye-git
+  version: 0.44.0.r1.g62ec9ed
+  origversion: 0.44.0.r1.g62ec9ed-1
+  status: rolling
+  summary: An experimental package management solution for Python
+  maintainers:
+    - chocobo1@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: rye
+  visiblename: rye
+  version: 0.44.0
+  origversion: null
+  status: newest
+  summary: Package Management Solution for Python
+- repo: macports
+  srcname: devel/rye
+  binname: rye
+  visiblename: rye
+  version: 0.44.0
+  origversion: null
+  status: newest
+  summary: A Hassle-Free Python Experience
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - devel
+- repo: nix_stable_24_05
+  srcname: rye
+  visiblename: rye
+  version: 0.34.0
+  origversion: null
+  status: outdated
+  summary: A tool to easily manage python dependencies and environments
+  maintainers:
+    - gaetan@glepage.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: rye
+  visiblename: rye
+  version: 0.42.0
+  origversion: null
+  status: outdated
+  summary: Tool to easily manage python dependencies and environments
+  maintainers:
+    - gaetan@glepage.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: rye
+  visiblename: rye
+  version: 0.44.0
+  origversion: null
+  status: newest
+  summary: Tool to easily manage python dependencies and environments
+  maintainers:
+    - gaetan@glepage.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: rye
+  visiblename: rye
+  version: 0.44.0
+  origversion: null
+  status: newest
+  summary: Tool to easily manage python dependencies and environments
+  maintainers:
+    - gaetan@glepage.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: rye
+  visiblename: rye
+  version: 0.44.0
+  origversion: null
+  status: newest
+  summary: Tool to easily manage python dependencies and environments
+  maintainers:
+    - gaetan@glepage.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: rye
+  visiblename: rye
+  version: 0.44.0
+  origversion: null
+  status: newest
+  summary: Tool to easily manage python dependencies and environments
+  maintainers:
+    - gaetan@glepage.com
+  licenses:
+    - MIT
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: rye
+  binnames:
+    - rye
+    - rye-debuginfo
+    - rye-debugsource
+    - rye-fish-completion
+    - rye-zsh-completion
+    - rye-bash-completion
+  visiblename: rye
+  version: 0.44.0
+  origversion: 0.44.0-1.6
+  status: newest
+  summary: Hassle-free Python project manager in Rust
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: scoop
+  subrepo: main
+  binname: rye
+  visiblename: rye
+  version: 0.44.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.44.0
+  origversion: 0.44.0-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.43.0
+  origversion: 0.43.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.42.0
+  origversion: 0.42.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.41.0
+  origversion: 0.41.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
