@@ -40,7 +40,7 @@ Total: **12,942** lines of code across **83** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 14,155 · **Forks**: 468 · **Open issues**: 681 · **Contributors**: 116
+- **Stars**: 14,154 · **Forks**: 468 · **Open issues**: 681 · **Contributors**: 116
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Total: **12,942** lines of code across **83** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-20 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last720d | 2024-09-25 | 5 | 26 | 6 | 8 | 29 | 29 |
+| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-21 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last720d | 2024-09-26 | 4 | 26 | 6 | 8 | 29 | 28 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for rye lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:35:42Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:42:01Z._
