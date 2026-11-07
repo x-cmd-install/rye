@@ -1,34 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: rye
-  visiblename: rye
-  version: 0.44.0
-  origversion: null
-  status: newest
-  summary: Tool to easily manage python dependencies and environments
-  maintainers:
-    - gaetan@glepage.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: rye
-  visiblename: rye
-  version: 0.44.0
-  origversion: null
-  status: newest
-  summary: Tool to easily manage python dependencies and environments
-  maintainers:
-    - gaetan@glepage.com
-  licenses:
-    - MIT
-- repo: wakemeops
-  subrepo: dev
-  binname: rye
-  visiblename: rye
-  version: 0.32.0
-  origversion: 0.32.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: aur
   srcname: rye-git
   binname: rye-git
@@ -83,28 +52,6 @@
     - MIT
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: rye
-  binname: rye
-  visiblename: rye
-  version: 0.13.0
-  origversion: 0.13.0-1
-  status: outdated
-  summary: An experimental alternative to poetry, pip, pipenv, venv, virtualenv, pdm, hatch
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: rye
-  binname: rye
-  visiblename: rye
-  version: 0.13.0
-  origversion: 0.13.0-1
-  status: outdated
-  summary: An experimental alternative to poetry, pip, pipenv, venv, virtualenv, pdm, hatch
-  licenses:
-    - MIT
 - repo: nix_stable_24_05
   srcname: rye
   visiblename: rye
@@ -122,6 +69,28 @@
   version: 0.42.0
   origversion: null
   status: outdated
+  summary: Tool to easily manage python dependencies and environments
+  maintainers:
+    - gaetan@glepage.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: rye
+  visiblename: rye
+  version: 0.44.0
+  origversion: null
+  status: newest
+  summary: Tool to easily manage python dependencies and environments
+  maintainers:
+    - gaetan@glepage.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: rye
+  visiblename: rye
+  version: 0.44.0
+  origversion: null
+  status: newest
   summary: Tool to easily manage python dependencies and environments
   maintainers:
     - gaetan@glepage.com
@@ -271,6 +240,15 @@
   visiblename: rye
   version: 0.33.0
   origversion: 0.33.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: rye
+  visiblename: rye
+  version: 0.32.0
+  origversion: 0.32.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
