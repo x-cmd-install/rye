@@ -40,7 +40,7 @@ Total: **12,942** lines of code across **83** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 14,116 · **Forks**: 465 · **Open issues**: 682 · **Contributors**: 116
+- **Stars**: 14,122 · **Forks**: 465 · **Open issues**: 682 · **Contributors**: 116
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Total: **12,942** lines of code across **83** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-04 | 2 | 16 | 6 | 2 | 11 | 17 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-05 | 2 | 16 | 6 | 2 | 11 | 17 |
 
 ## Release assets
 
@@ -75,15 +75,6 @@ Total: **12,942** lines of code across **83** files in the top 5 languages.
 | [rye-x86_64-windows.exe](https://github.com/astral-sh/rye/releases/download/0.44.0/rye-x86_64-windows.exe) | 13.8 MiB | `native/win/x64` |
 | [rye-x86_64-windows.exe.sha256](https://github.com/astral-sh/rye/releases/download/0.44.0/rye-x86_64-windows.exe.sha256) | 66 B | `native/win/x64` |
 
-## Distribution status
-
-Reported by **28** distros on [repology.org](https://repology.org/project/rye). **9** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.44.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.44.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for rye lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rye` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -93,4 +84,4 @@ Install metadata for rye lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:09:41Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:22:07Z._
